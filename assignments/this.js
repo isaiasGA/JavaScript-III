@@ -55,7 +55,8 @@ function food(favorite) {
 }
 
 let myFavoriteFood = new food('pasta ogli olio 🍝');
-console.log(`My favorite food is, ${myFavoriteFood.food}`)
+
+// console.log(`My favorite food is, ${myFavoriteFood.food}`)
 
 
 
